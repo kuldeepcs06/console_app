@@ -1,2 +1,2 @@
-/vendor/
-/var/cache/dev
+vendor/*
+var/cache/*
